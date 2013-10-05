@@ -1,0 +1,23 @@
+GIT
+  remote: git://github.com/jruby/warbler.git
+  revision: e674bbb12312f5c295205280ab5d75ede8d3f20c
+  specs:
+    warbler (1.4.0.dev)
+      jruby-jars (>= 1.5.6)
+      jruby-rack (>= 1.0.0)
+      rake (>= 0.9.6)
+      rubyzip (~> 0.9)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    jruby-jars (1.7.5)
+    jruby-rack (1.1.13.2)
+    rake (10.1.0)
+    rubyzip (0.9.9)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  warbler!
