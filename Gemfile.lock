@@ -3,7 +3,7 @@ GEM
   specs:
     jruby-jars (9.1.15.0)
     jruby-rack (1.1.21)
-    rake (12.3.0)
+    rake (13.0.1)
     rubyzip (1.2.1)
     warbler (2.0.4)
       jruby-jars (>= 9.0.0.0)
@@ -13,6 +13,7 @@ GEM
 
 PLATFORMS
   java
+  ruby
 
 DEPENDENCIES
   warbler
